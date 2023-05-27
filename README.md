@@ -9,7 +9,6 @@ This project is a YouTube clone built using React. It provides a user interface 
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Overview
