@@ -59,12 +59,11 @@ Contributions to the YouTube Clone project are welcome! If you'd like to contrib
 
 Please ensure that your contributions align with the project's coding style and guidelines.
 
-## License
-
-This project is licensed under the MIT License. You can find more details in the [LICENSE](LICENSE) file.
 
 ## Contact
 
-For any questions, suggestions, or feedback, please feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+For any questions, suggestions, or feedback, please feel free to reach out to me at khushisharmapcm@gmail.com
+
+Happy Hacking! :)
 
 
